@@ -7,7 +7,7 @@ Landing page responsiva com estrutura escalavel, semântica e aplicando tecnicas
  - [Estrutura de pastas](https://github.com/laurentino01/desafio-1-dnc/tree/master#estrutura-das-pastas)
  - [Site Desktop](https://github.com/laurentino01/desafio-1-dnc/tree/master#desktop)
  - [Site Mobile](https://github.com/laurentino01/desafio-1-dnc/tree/master#mobile)
- - 
+ 
 ## Links do site e google sheets
 
  - [Landing Page no netlify](https://desafio1-landingpage-dnc.netlify.app/)
