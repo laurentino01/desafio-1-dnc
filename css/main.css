@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+@import url("./hero.css");
+@import url("./authority.css");
+@import url("./about.css");
+@import url("./footer.css");
+
+/* generals configs */
+:root {
+  --primary-color: #303030;
+  --secondary-color: #c07212;
+  --neutral: #f9f9f9;
+  --paragraph-size: clamp(1rem, 0.9286rem + 0.3571vw, 1.25rem);
+  --h1-size: clamp(1.625rem, 1.0179rem + 3.0357vw, 3.75rem);
+  --h2-size: clamp(2rem, 1.8571rem + 0.7143vw, 2.5rem);
+  --h3-size: clamp(1.625rem, 1.5179rem + 0.5357vw, 2rem);
+  --font-family-inter: "Inter", sans-serif;
+  --font-bold: 600;
+  --font-normal: normal;
+  --margin-container: clamp(1.25rem, 0.5rem + 3.75vw, 3.875rem);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-family-inter);
+}
+h1,
+h2,
+h3 {
+  font-weight: var(--font-bold);
+}
+h1 {
+  font-size: var(--h1-size);
+}
+h2 {
+  font-size: var(--h2-size);
+}
+h3 {
+  font-size: var(--h3-size);
+}
+p {
+  font-size: var(--paragraph-size);
+}
+.container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1440px;
+}

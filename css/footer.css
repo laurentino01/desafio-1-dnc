@@ -1,0 +1,38 @@
+.footer {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 82px var(--margin-container);
+  display: grid;
+  justify-items: center;
+}
+.footer h3 {
+  margin-bottom: 48px;
+}
+.footer form {
+  display: grid;
+  row-gap: 48px;
+}
+.footer input:not(input[type="submit"]) {
+  padding: 23px 30px;
+}
+.footer input {
+  width: clamp(16.875rem, 13.0357rem + 19.1964vw, 30.3125rem);
+  font-weight: 600;
+  font-size: 24px;
+  border: none;
+  border-radius: 10px;
+  height: 72px;
+}
+.footer input[type="submit"] {
+  background-color: var(--secondary-color);
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    text-align: center;
+  }
+  .footer input {
+    height: 52px;
+  }
+}

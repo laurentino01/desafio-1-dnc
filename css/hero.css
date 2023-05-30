@@ -1,0 +1,17 @@
+.hero {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: var(--primary-color);
+  color: white;
+  height: 475px;
+  padding: 0 var(--margin-container);
+}
+h1 {
+  margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+  .hero {
+    text-align: center;
+  }
+}
