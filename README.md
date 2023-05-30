@@ -1,7 +1,14 @@
 # Desafio 1 - Resolução
 Landing page responsiva com estrutura escalavel, semântica e aplicando tecnicas de SEO. Levando em conta o style guide da empresa e todas as requisições. 
 
-## Referência
+## Sumário
+
+ - [Links do site e google sheets](https://github.com/laurentino01/desafio-1-dnc/tree/master#refer%C3%AAncia)
+ - [Estrutura de pastas](https://github.com/laurentino01/desafio-1-dnc/tree/master#estrutura-das-pastas)
+ - [Site Desktop](https://github.com/laurentino01/desafio-1-dnc/tree/master#desktop)
+ - [Site Mobile](https://github.com/laurentino01/desafio-1-dnc/tree/master#mobile)
+ - 
+## Links do site e google sheets
 
  - [Landing Page no netlify](https://desafio1-landingpage-dnc.netlify.app/)
  - [Link Google Sheets](https://docs.google.com/spreadsheets/d/1R8dRUYLy82kDVzLdDw-EcunEq9HWriF-lkm8gpr3ub8/edit?usp=sharing)
