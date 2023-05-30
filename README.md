@@ -8,6 +8,7 @@ Landing page responsiva com estrutura escalavel, semântica e aplicando tecnicas
 
 ## Estrutura das pastas
 A estrutura abaixo foca dividir os estilos para cada seção de forma que a landing page tenha fácil manutenção e escala. 
+
 ![image](https://github.com/laurentino01/desafio-1-dnc/assets/81561554/70eb1f64-16bb-469e-b21d-965021167e19)
 
 ## Desktop
